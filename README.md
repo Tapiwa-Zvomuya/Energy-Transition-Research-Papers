@@ -2,7 +2,6 @@
 
 ### 1.*Crisis and Transition: How the Russia–Ukraine War Reshaped the EU’s Energy Landscape*
 
-![EU Energy Shock](https://via.placeholder.com/800x400?text=Ukraine+War's+Energy+Shock+%7C+EU+Energy+Transition)
 
 **Authors:** Nick Arredondo, Shreya Mukhopadhyay, Tapiwa Zvomuya, Zikai Qian
 **Course:** CHBE 548 – Energy Transition & Sustainability
@@ -16,7 +15,6 @@ The 2022 Russian invasion of Ukraine triggered Europe’s most severe energy cri
 
 ### 2. 🌍 *HDI, PHDI, EPI, and SEDI: Trade-offs Between Human Welfare, Environment, and Energy*
 
-![Human Development & Sustainability](https://docs.google.com/document/d/1iwPNqf_wolOlBMHEHWixQrGCC89CjG2W-svuMFbGgSU/edit?usp=drive_link)
 
 **Authors:** Nick Arredondo, Shreya Mukhopadhyay, Zikai Qian, Tapiwa Zvomuya
 **Course:** CHBE 548 – Fall 2025
